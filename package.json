@@ -1,0 +1,13 @@
+{
+  "name": "systemLog",
+  "version": "1.2.3",
+  "description": "systemLog",
+  "main": "lib/index.js",
+  "author": {
+    "name": "CDer"
+  },
+  "dependencies": {
+    "log4js": "^6.7.0",
+    "@log4js-node/logstash-http": "^1.0.0"
+  }
+}
